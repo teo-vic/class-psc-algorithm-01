@@ -33,3 +33,7 @@ Caso a Tristeza possua mais pontos informe:
 ~~~
 A mudança para a nova cidade foi uma experiência desagradável para a Riley.
 ~~~
+
+
+
+#-------Resolução-------
