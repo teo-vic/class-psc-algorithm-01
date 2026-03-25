@@ -37,8 +37,7 @@ A mudança para a nova cidade foi uma experiência desagradável para a Riley.
 
 
 # -------Resolução-------
-
-
+~~~~
 import java.util.Scanner;
 
 public class Divertidamente {
